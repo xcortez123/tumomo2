@@ -1,0 +1,35 @@
+.fondo{ background-color:  black; 
+		opacity: 0.5;
+		width: 110%;
+		position: fixed;
+		z-index: 100;
+		border-bottom: #FE2E2E 1px solid;
+		}
+.ColorLetrasBlanco{
+	color: white;
+}
+.fondo2{ 	border-style: solid;
+    		border-width: 1px; 
+    		border-color: #E6E6E6;
+    		background: #F2F2F2; 
+		}
+.fondo3{
+	background-color:  black; 
+		opacity: 0.5;
+}
+.borde1{
+			border-style: solid;
+    		border-width: 2px; 
+    		border-color: #FE2E2E;
+}		
+.fondoGeneral{
+	background:black;
+}	
+
+body{
+	background: url(../bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}	
+	
